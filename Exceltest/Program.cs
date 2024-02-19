@@ -32,7 +32,7 @@ namespace Exceltest
                         if (helper.Open(@"\\rubus\Сектор Электроники и автоматики\= Шмаглиенко\test.xlsx"))
                         {
                             
-                            helper.Set(column: "A", row: 1, data: "='[Лист Microsoft Excel — копия.xlsx]Лист1'!$A$1");
+                            helper.Set(column: "A", row: 1, data: "=[РЕЕСТР_нестандарта.xlsb]N!$S$1");
                             helper.Save();
 
                             result = helper.Get(column: "A", row: 1);
