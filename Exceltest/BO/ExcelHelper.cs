@@ -33,7 +33,8 @@ namespace Exceltest.BO
                 _workbook.Close(null, null, null);
      
             }
-            catch(Exception ex) { Console.WriteLine(ex.Message); }
+            catch(Exception ex) {
+            _workbook.Close(null, null, null); Console.WriteLine(ex.Message); }
         }
 
         internal object Get(string column, int row)
