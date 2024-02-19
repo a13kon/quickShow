@@ -1,0 +1,8 @@
+E:\C#_Projects\Exceltest\Exceltest\bin\Debug\Exceltest.exe.config
+E:\C#_Projects\Exceltest\Exceltest\obj\Debug\Exceltest.csprojResolveAssemblyReference.cache
+E:\C#_Projects\Exceltest\Exceltest\obj\Debug\Exceltest.csproj.ResolveComReference.cache
+E:\C#_Projects\Exceltest\Exceltest\bin\Debug\Exceltest.exe
+E:\C#_Projects\Exceltest\Exceltest\bin\Debug\Exceltest.pdb
+E:\C#_Projects\Exceltest\Exceltest\obj\Debug\Exceltest.exe
+E:\C#_Projects\Exceltest\Exceltest\obj\Debug\Exceltest.pdb
+E:\C#_Projects\Exceltest\Exceltest\bin\Debug\EasyModbus.dll
